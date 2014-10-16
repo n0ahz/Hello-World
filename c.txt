@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-same named file created in master before pulling
-=======
-samename test again
->>>>>>> B1

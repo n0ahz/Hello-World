@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Testing from B1
-=======
-Testing in master branch
->>>>>>> master

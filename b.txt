@@ -1,2 +1,0 @@
-File created in Branch B1
-b.txt modified from Master

@@ -1,2 +1,0 @@
-Direct from Branch B1 to Master
-Modified in B1 after push pull
